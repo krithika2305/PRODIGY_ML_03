@@ -31,3 +31,8 @@ The project uses the **Dogs vs Cats** dataset from Kaggle:
 
 ✅ Performance may vary based on dataset size and image quality.  
 
+## 🖼️ GUI Feature  
+Used Tkinter to build a graphical user interface allowing users to:  
+
+- Upload an image
+- Predict whether the image is of a cat or a dog
