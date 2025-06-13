@@ -36,3 +36,7 @@ Used Tkinter to build a graphical user interface allowing users to:
 
 - Upload an image
 - Predict whether the image is of a cat or a dog
+
+## Special thanks to Prodigy Info Tech for the internship opportunity  
+
+#ProdigyInfoTech
